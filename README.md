@@ -34,5 +34,5 @@ Here is a list of my Data Analysis certificates in reverse-chronological order:
 - [Introduction to Programming with Python](hardcopy only) (Aristotle University of Thessaloniki (June 2017) (AUTH)
 
 ## Contacts
-- LinkedIn: [@anastasiachatzi](www.linkedin.com/in/anastasiachatzi)
+- LinkedIn: [@anastasiachatzitriantafyllou](www.linkedin.com/in/anastasiachatzi)
 - E-mail: annicht94@gmail.com
