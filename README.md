@@ -11,7 +11,7 @@ Business-related topics and Marketing have always been my greatest passions, so 
 Passionate about Marketing and fascinated by the insights that Big Data Analytics can provide for today's businesses, I am currently enrolled on a Master of Science degree in Big Data, Marketing & Management, aspiring to become a Data Analyst.
   
 
-## Table of contents
+## Table of Contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
 - [Certificates](#certificates)
