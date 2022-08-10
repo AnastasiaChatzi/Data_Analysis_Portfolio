@@ -1,14 +1,14 @@
 # Data Analysis Portfolio
 
 The purpose of this repository is to showcase my skills in Data Analytics. I also share projects that I am working on during my journey in Data Analytics / Data Science.
-Marketing Data Analysis is in the center of my interests, so the majority of the projects shared here will be Marketing related.
+**Marketing Data Analysis** is in the center of my interests, so the majority of the projects shared here will be Marketing related.
 
 ## About
 
 Hi, I'm Anastasia! I am a Linguist turned Data Analyst! I hold a bachelor's degree in Greek Linguistics and I have worked in this domain for a few years. 
 Business-related topics and Marketing have always been my greatest passions, so I decided to pursue an MBA degree, where I majored in Marketing. 
  
-Passionate about Marketing and fascinated by the insights that Big Data Analytics can provide for today's businesses, I am currently enrolled on a Master of Science degree in Big Data, Marketing & Management, aspiring to become a Data Analyst.
+Passionate about Marketing and fascinated by the insights that Big Data Analytics can provide for today's businesses, I am currently enrolled on a Master of Science degree in **Big Data, Marketing & Management**, aspiring to become a Data Analyst.
   
 
 ## Table of contents
