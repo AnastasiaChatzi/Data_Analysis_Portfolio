@@ -25,6 +25,10 @@ Passionate about Marketing and fascinated by the insights that Big Data Analytic
 
 ## Certificates
 Here is a list of my Data Analysis certificates in reverse-chronological order:
+- [Professional Certificate - Data Science Foundations](https://credentials.edx.org/credentials/924eb4f34f2e464598cbf18f946c3724/) (September 2022) (IBM on edX)
+- [Python for Data Science Project](https://courses.edx.org/certificates/a3231f057c104dfda42eefcaf2b06226) (September 2022) (IBM on edX)
+- [SQL for Data Science](https://courses.edx.org/certificates/8f3377fb3a9840179e0835479a1e7bb1) (September 2022) (IBM on edX)
+- [Visualizing Data with Python](https://courses.edx.org/certificates/050440af051d4b4cbf859befebaad22f) (September 2022) (IBM on edX)
 - [Analyzing Data with Python](https://courses.edx.org/certificates/7bafbb33c72a429f8186ab82f38d6061) (May 2022) (IBM on edX)
 - [Machine Learning with Python](https://courses.edx.org/certificates/8a7cee0258a04736b1c53c699327f8b8) (February 2022) (IBM on edX)
 - [Data Science Tools](https://courses.edx.org/certificates/e7134da5d4584095910498786180f553) (February 2022) (IBM on edX)
