@@ -4,7 +4,7 @@ The purpose of this repository is to showcase my skills in Data Analytics. I als
 
 ## About
 
-Hi, I'm Anastasia! I am a Linguist turned Data Analyst! Even though I hold a bachelor's degree in Greek Linguistics, I've always been keen on business-related topics, so I decided to pursue an MBA degree, where I majored in Marketing. Fascinated by the insights that Big Data Analytics can provide for today's businesses, I am currently enrolled on a Master's degree in Big Data, Marketing & Management, aspiring to become a Data Analyst.
+Hi, I'm Anastasia! I am a Linguist turned Data Analyst! I hold a bachelor's degree in Greek Linguistics, but I've always been keen on business-related topics, so I decided to pursue an MBA degree, where I majored in Marketing. Fascinated by the insights that Big Data Analytics can provide for today's businesses, I am currently enrolled on a Master's degree in Big Data, Marketing & Management, aspiring to become a Data Analyst.
   
 
 ## Table of Contents
