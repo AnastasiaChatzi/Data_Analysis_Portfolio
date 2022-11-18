@@ -16,7 +16,8 @@ Hi, I'm Anastasia! I am a Linguist turned Data Analyst! I hold a bachelor's degr
 
 
 ## Portfolio Projects
-- [Customer Segmentation using K-Means Clustering Algorithm](https://github.com/AnastasiaChatzi/Data-Analysis-Portfolio/blob/main/Customer_Segmentation_K_means_Clustering.ipynb)
+- [Customer Segmentation using K-Means Clustering Algorithm](https://github.com/AnastasiaChatzi/Data-Analysis-Portfolio/blob/main/Customer_Segmentation_K_means_Clustering.ipynb) Performed customer segmentation using a Machine Learning clustering algorithm, K-means. 
+- [Data Science Capstone Project](https://github.com/AnastasiaChatzi/IBM_DataScience_Capstone_Project)  Prediction of SpaceX's Falcon 9 first-stage launch.
 
 
 ## Certificates
