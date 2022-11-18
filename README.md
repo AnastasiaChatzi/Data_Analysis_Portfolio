@@ -16,7 +16,7 @@ Hi, I'm Anastasia! I am a Linguist turned Data Analyst! Even though I hold a bac
 
 
 ## Portfolio Projects
-
+- [Customer Segmentation using K-Means Clustering Algorithm](https://github.com/AnastasiaChatzi/Data-Analysis-Portfolio/blob/main/Customer_Segmentation_K_means_Clustering.ipynb)
 
 
 ## Certificates
