@@ -1,6 +1,6 @@
 # Data Analysis Portfolio
 
-The purpose of this repository is to showcase my skills in Data Analytics. I also share projects that I am working on during my journey in Data Analytics / Data Science.
+The purpose of this repository is to showcase my skills in Data Analytics. I also share projects that I am working on during my journey in Data Analytics / Data Science. New projects will be constantly added!
 
 ## About
 
