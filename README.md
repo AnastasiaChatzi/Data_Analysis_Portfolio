@@ -21,7 +21,8 @@ Hi, I'm Anastasia! I am a Linguist turned Data Analyst! I hold a bachelor's degr
 
 
 ## Certificates
-Here is a list of my Data Analysis certificates in reverse-chronological order:
+Here is a list of my data-related certificates in reverse-chronological order:
+- [Cloud Computing Fundamentals: Microsoft Azure] (https://www.credly.com/badges/862141db-c806-4d7b-a0ba-c172f2d6bbcf/linked_in_profile) (December 2022) (Microsoft)
 - [Python for Data Science Project](https://courses.edx.org/certificates/a3231f057c104dfda42eefcaf2b06226) (November 2022) (IBM on edX)
 - [Professional Certificate - Data Science Foundations](https://credentials.edx.org/credentials/924eb4f34f2e464598cbf18f946c3724/) (September 2022) (IBM on edX)
 - [SQL for Data Science](https://courses.edx.org/certificates/8f3377fb3a9840179e0835479a1e7bb1) (September 2022) (IBM on edX)
