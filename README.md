@@ -21,7 +21,7 @@ Hi, I'm Anastasia! I am a Linguist turned Data Analyst! I hold a bachelor's degr
 - [Customer Segmentation using K-Means Clustering Algorithm](https://github.com/AnastasiaChatzi/Data-Analysis-Portfolio/blob/main/Customer_Segmentation_K_means_Clustering.ipynb) Performed customer segmentation using a Machine Learning algorithm, **K-means clustering**. Language: **R**. 
 
 
-## Certificates
+## Certificates 
 Here is a list of my data-related certificates in reverse-chronological order:
 - [Cloud Computing Fundamentals: Microsoft Azure](https://www.credly.com/badges/862141db-c806-4d7b-a0ba-c172f2d6bbcf/linked_in_profile) (December 2022)
 - [IBM Data Science Professional Certificate](https://credentials.edx.org/credentials/658d6f3b3fca4ca58d1689a2094977f6/) (December 2022)
