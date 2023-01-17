@@ -19,7 +19,7 @@ Hi, I'm Anastasia! I am a Linguist turned Data Analyst! I hold a bachelor's degr
 - [Customer Churn Prediction using Logistic Regression Algorithm](https://github.com/AnastasiaChatzi/Data_Analysis_Portfolio/blob/main/Customer_Churn_Prediction_Logistic_Regression.ipynb) Predicted the **customer churn** of a telco company using a Machine Learning algorithm, **Logistic Regression**. Language: **Python**.
 - [Data Science Capstone Project](https://github.com/AnastasiaChatzi/IBM_DataScience_Capstone_Project) Predicted the success of the Falcon's 9 rocket launch. Language: **Python**.
 - [Customer Segmentation using K-Means Clustering Algorithm](https://github.com/AnastasiaChatzi/Data-Analysis-Portfolio/blob/main/Customer_Segmentation_K_means_Clustering.ipynb) Performed **customer segmentation** using a Machine Learning algorithm, **K-means clustering**. Language: **R**. 
-- [Twitter Sentiment Analysis]() Performed **sentiment analysis** on Twitter about ChatGPT. Language: **R**. 
+- [Twitter Sentiment Analysis](https://github.com/AnastasiaChatzi/Data_Analysis_Portfolio/blob/main/Twitter_Sentiment_Analysis_chatgpt.ipynb) Performed **sentiment analysis** on Twitter about ChatGPT. Language: **R**. 
 
 
 ## Certificates 
